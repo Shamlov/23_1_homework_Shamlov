@@ -1,0 +1,31 @@
+main {
+  min-height: 100vh;
+}
+
+.my-bg-img {
+  background-color: rgb(124, 124, 124);
+  background-image: url(../images/1.jpg);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.authorization-block {
+  width: 35%;
+}
+
+.my-background-form {
+  background-color: rgba(208, 208, 208, 0.608);
+}
+
+.my-btn {
+  background-color: rgb(147, 66, 66);
+}
+.my-btn:hover, .my-btn:active {
+  background-color: rgb(188, 102, 102);
+}
+
+.my-text-color {
+  color: rgb(147, 66, 66);
+}/*# sourceMappingURL=style.css.map */
